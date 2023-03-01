@@ -1,0 +1,1 @@
+# count non-leading zeros, sum up the list and add the number of non-leading zeros to the sum
